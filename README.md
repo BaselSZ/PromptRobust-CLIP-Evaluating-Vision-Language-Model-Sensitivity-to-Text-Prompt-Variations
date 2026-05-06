@@ -1,4 +1,4 @@
-# PromptRobust-CLIP-Evaluating-Vision-Language-Model-Sensitivity-to-Text-Prompt-Variations
+# Attribute-Aware Consistency Prompt Learning
 
 ## Project Metadata
 ### Authors
